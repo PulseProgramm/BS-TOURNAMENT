@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: 'Brawl Stars', sans-serif;
+    background: linear-gradient(to bottom, #0f054c, #2c1580);
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #ffc107;
+    color: #2c1580;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20px;
+    padding: 20px;
+  }
+  
+  .info {
+    background-color: #4c29b2;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  }
+  
+  .email a {
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  ul {
+    text-align: left;
+    display: inline-block;
+    margin: 0 auto;
+    padding-left: 20px;
+  }
+  
+  .footer {
+    margin-top: 30px;
+    font-size: 0.9em;
+    color: #ccc;
+  }
+  
